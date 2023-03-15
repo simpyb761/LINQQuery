@@ -1,0 +1,15 @@
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\bin\Debug\net6.0\LINQQuery.exe
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\bin\Debug\net6.0\LINQQuery.deps.json
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\bin\Debug\net6.0\LINQQuery.runtimeconfig.json
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\bin\Debug\net6.0\LINQQuery.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\bin\Debug\net6.0\LINQQuery.pdb
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.csproj.AssemblyReference.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.AssemblyInfoInputs.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.AssemblyInfo.cs
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.csproj.CoreCompileInputs.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\obj\Debug\net6.0\refint\LINQQuery.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.pdb
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.genruntimeconfig.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\LINQQuery\LINQQuery\LINQQuery\obj\Debug\net6.0\ref\LINQQuery.dll
